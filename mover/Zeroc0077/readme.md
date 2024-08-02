@@ -5,7 +5,7 @@
 
 ## 个人简介
 - 技术栈：`C++`, `java`, `solidity`
-- 联系方式: tg: `zeroc` 
+- 联系方式: tg: `zeroc0077` 
 
 ## 任务
 
@@ -31,4 +31,12 @@
 - [x] call swap hash: [9GwvQUfKpbNeygVJTH1jk4Seq2sqv5AJJUS4CwcmrH5d](https://suivision.xyz/txblock/9GwvQUfKpbNeygVJTH1jk4Seq2sqv5AJJUS4CwcmrH5d)
 
 ##   06 SDK PTB
-- [] save hash :
+- [x] save hash : [B7jQFSYnRkKoEWPTNDfupjiFVJPzfqC5W33Y6BqFTtqi](https://suivision.xyz/txblock/B7jQFSYnRkKoEWPTNDfupjiFVJPzfqC5W33Y6BqFTtqi)
+
+##   07 Move CTF Check In
+- [x] CLI call 截图 : ![截图](./images/1.png)
+- [x] flag hash : [Bhgw8jrzYcdogSBXJcGWpN5enn6K4emky9x1eW7wvL6i](https://testnet.suivision.xyz/txblock/Bhgw8jrzYcdogSBXJcGWpN5enn6K4emky9x1eW7wvL6i)
+
+##   08 Move CTF Lets Move
+- [] proof : 
+- [] flag hash :
